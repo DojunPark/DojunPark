@@ -7,8 +7,10 @@ I'm currently majoring in Computational Linguistics as a Msc student at <a href=
 </a>
 <a href="https://www.instagram.com/dojunnn.p/">
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+</a></br>
 
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ```python
 #!/usr/bin/python
@@ -32,7 +34,6 @@ me = NLPResearcher()
 me.say_hi()
 ```
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 <!--
