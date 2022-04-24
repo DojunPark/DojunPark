@@ -7,7 +7,7 @@ I'm currently majoring in Computational Linguistics as a Msc student at <a href=
 </a>
 <a href="https://www.instagram.com/dojunnn.p/">
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a></br>
+</a></br></br></br>
 
 
 ```python
@@ -33,6 +33,10 @@ me.say_hi()
 ```
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dojunpark&show_icons=true&theme=gotham" alt="dojunpark" />
 
 <!--
 **DojunPark/DojunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
