@@ -32,12 +32,17 @@ me = NLPResearcher()
 me.say_hi()
 ```
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-📈 my github stats
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dojunpark&show_icons=true&theme=gotham" alt="dojunpark" />
+```text
+Python 12 hrs 11 mins   ████████████▒  88.07 %
+Bash   1 hrs 39 mins    ▓░░░░░░░░░░░   11.93 %
+```
 
+<!--END_SECTION:waka-->
 <!--
 **DojunPark/DojunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
