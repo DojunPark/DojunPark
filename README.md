@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><em>I'm currently majoring in Computational Linguistics as a Msc student at <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a>🏫</br>
+I'm currently majoring in Computational Linguistics as a Msc student at <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a>🏫</br>
 
 [![Linkedin: dojunpark](https://img.shields.io/badge/-dojunpark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dojun-park-772b0319b/)](https://www.linkedin.com/in/dojun-park-772b0319b/)
 
