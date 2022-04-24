@@ -10,8 +10,6 @@ I'm currently majoring in Computational Linguistics as a Msc student at <a href=
 </a></br>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" />
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -34,7 +32,7 @@ me = NLPResearcher()
 me.say_hi()
 ```
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <!--
 **DojunPark/DojunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
