@@ -34,12 +34,14 @@ me.say_hi()
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 </br>
+
 ## Weekly development breakdown 📊
+
 <!--START_SECTION:waka-->
 
 ```text
-Python 12 hrs 11 mins   ████████████████▒  88.07 %
-Bash   1 hrs 39 mins    ▓░░░░░░░░░░░░░░░   11.93 %
+Python 12 hrs 11 mins   ██████████████▒  88.07 %
+Bash   1 hrs 39 mins    ▓░░░░░░░░░░░░░   11.93 %
 ```
 
 <!--END_SECTION:waka-->
