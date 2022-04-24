@@ -2,7 +2,12 @@
 
 I'm currently majoring in Computational Linguistics as a Msc student at <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a>🏫</br>
 
-[![Linkedin: dojunpark](https://img.shields.io/badge/-dojunpark-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dojun-park-772b0319b/)](https://www.linkedin.com/in/dojun-park-772b0319b/)
+<a href="https://www.linkedin.com/in/dojun-park-772b0319b/">
+  <img align="left" alt="Dojun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/dojunnn.p/">
+  <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
 
 ```python
@@ -26,6 +31,10 @@ class NLPResearcher:
 me = NLPResearcher()
 me.say_hi()
 ```
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 <!--
 **DojunPark/DojunPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
