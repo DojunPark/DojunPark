@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/dojun-park-772b0319b/">
   <img align="left" alt="Dojun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=ko">
+  <img align="left" alt="Dojun's Google Scholar" width="22px" src="https://imgur.com/rNSS4cJ" />
+</a>
 <a href="https://www.instagram.com/dojunnn.p/">
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a></br></br></br>
