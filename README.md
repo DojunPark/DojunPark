@@ -39,8 +39,8 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```text
-Python 12 hrs 11 mins   ██████████████▒  88.07 %
-Bash   1 hrs 39 mins    ▓░░░░░░░░░░░░░   11.93 %
+Python 12 hrs 11 mins   ███████████████▓▒  88.07 %
+Bash   1 hrs 39 mins    █▓░░░░░░░░░░░░░░░  11.93 %
 ```
 
 #### Languages and Tools
