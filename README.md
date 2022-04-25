@@ -6,7 +6,7 @@
   <img align="left" alt="Dojun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=ko">
-  <img align="left" alt="Dojun's Google Scholar" width="22px" src="https://imgur.com/a/UP6JzqX" />
+  <img align="left" alt="Dojun's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" />
 </a>
 <a href="https://www.instagram.com/dojunnn.p/">
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
