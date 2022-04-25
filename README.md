@@ -26,7 +26,7 @@ class NLPResearcher:
         self.major = "Computational Linguistics"
         self.interest = "Machine Translation"
         self.affiliation = "Institute for Natural Language Processing(IMS), University of Stuttgart"
-        self.language_spoken = ["ko_KR", "en_US", "de_DE"]
+        self.language_spoken = ["en_US", "de_DE", "ko_KR", "zh_CN"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting :)")
