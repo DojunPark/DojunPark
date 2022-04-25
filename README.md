@@ -1,4 +1,4 @@
-### Hi there!
+## Hi there! 😊
 
 <em>I'm currently majoring in Computational Linguistics as a Msc student at <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a> 🏫</em>
 
