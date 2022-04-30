@@ -24,7 +24,7 @@ class NLPResearcher:
         self.name = "Dojun Park"
         self.current = "Msc Student"
         self.major = "Computational Linguistics"
-        self.interest = "Machine Translation, Transfer Learning, Multimodal Semantics, Speech Processing"
+        self.interest = "Machine Translation, Transfer Learning, Speech Processing"
         self.affiliation = "Institute for Natural Language Processing(IMS), University of Stuttgart"
         self.language_spoken = ["en_US", "de_DE", "ko_KR", "zh_CN"]
 
