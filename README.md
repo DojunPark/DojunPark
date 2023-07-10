@@ -8,6 +8,7 @@ Welcome to my GitHub profile. I'm currently immersing myself in the world of Com
 <a href="https://www.linkedin.com/in/dojun-park-772b0319b/"><img align="left" alt="Dojun's LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
 <a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en"><img align="left" alt="Dojun's Google Scholar" width="40px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" /></a>
 <a href="https://www.instagram.com/dojunnn.p/"><img align="left" alt="Dojun's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+
 <br>
 
 ## 🖥️ A Glimpse of Me as Code
@@ -27,14 +28,16 @@ class NLPResearcher:
         return "Thanks for dropping by, hope you find some of my work interesting :)"
 
 me = NLPResearcher()
-print(me.say_hi())```
+print(me.say_hi())
+```
+<br>
 
-
-##⌚ My Weekly Development Breakdown
+## ⌚ My Weekly Development Breakdown
 
 Python: 12 hrs 11 mins  ███████████████▓▒  88.07 %
 Bash:   1 hr 39 mins    █▓░░░░░░░░░░░░░░░  11.93 %
 
+<br>
 
 ## 🪄 Languages and Tools I Use
 
@@ -49,4 +52,5 @@ Bash:   1 hr 39 mins    █▓░░░░░░░░░░░░░░░  11.
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <br>
 <br>
+
 Thanks for visiting! 🙏
