@@ -1,6 +1,7 @@
 ## Hi there! 😊
 
 <em>I'm Dojun, who is majoring in Computational Linguistics as a Msc student at <a href="https://www.ims.uni-stuttgart.de/en/">the University of Stuttgart</a> 🏫</em>
+<em>If you're curious about the road I've traveled in the vast world of NLP, feel free to take a journey through my [resume](https://dojunpark.github.io/). You might just find the collaborator or thinker you've been looking for! 💼🚀</em>
 
 <a href="https://www.linkedin.com/in/dojun-park-772b0319b/">
   <img align="left" alt="Dojun's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" />
@@ -11,8 +12,6 @@
 <a href="https://www.instagram.com/dojunnn.p/">
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a></br></br></br>
-
-If you're curious about the road I've traveled in the vast world of NLP and eager to discover the skills I've picked up along the way, feel free to take a journey through my [resume](https://dojunpark.github.io/). You might just find the collaborator or thinker you've been looking for! 💼🚀
 
 ```python
 #!/usr/bin/python
