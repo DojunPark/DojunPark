@@ -1,6 +1,6 @@
 ## Hi there! 😊
 
-I'm Dojun! 👋 As an MSc student at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/), I'm currently immersing myself in the world of Computational Linguistics. If you're intrigued by the intersection of language and technology, you might just find my journey through Natural Language Processing interesting. Take a peek at my [CV](https://dojunpark.github.io/) and let's connect! 🤝
+I'm Dojun! 👋 As an MSc candidate at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/), I'm currently immersing myself in the world of Computational Linguistics. If you're intrigued by the intersection of language and technology, you might just find my journey through Natural Language Processing interesting. Take a peek at my [CV](https://dojunpark.github.io/) and let's connect! 🤝
 
 <a href="https://www.linkedin.com/in/dojun-park-772b0319b/"><img align="left" alt="Dojun's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
 <a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en">
@@ -16,11 +16,11 @@ I'm Dojun! 👋 As an MSc student at the [University of Stuttgart](https://www.i
 # -*- coding: utf-8 -*-
 
 
-class NLPResearcher:
+class NLPEngineer:
 
     def __init__(self):
         self.name = "Dojun Park"
-        self.current = "Msc Student"
+        self.current = "Msc Candidate"
         self.major = "Computational Linguistics"
         self.interest = "Machine Translation, Transfer Learning, Speech Processing"
         self.affiliation = "Institute for Natural Language Processing(IMS), University of Stuttgart"
@@ -30,7 +30,7 @@ class NLPResearcher:
         print("Thanks for dropping by, hope you find some of my work interesting :)")
 
 
-me = NLPResearcher()
+me = NLPEngineer()
 me.say_hi()
 ```
 
