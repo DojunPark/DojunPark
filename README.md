@@ -8,7 +8,7 @@ I'm Dojun! 👋 I'm currently immersing myself in the world of Computational Lin
 </a>
 <a href="https://www.instagram.com/dojunnn.p/">
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a></br></br></br>
+</a></br>
 
 
 ```python
