@@ -12,6 +12,7 @@
   <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a></br></br></br>
 
+If you're curious about the road I've traveled in the vast world of NLP and eager to discover the skills I've picked up along the way, feel free to take a journey through my [resume](https://dojunpark.github.io/). You might just find the collaborator or thinker you've been looking for! 💼🚀
 
 ```python
 #!/usr/bin/python
