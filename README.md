@@ -1,41 +1,39 @@
-## Hi there! 😊
+# Hi there! 😊
 
-<em>I'm Dojun, who is majoring in Computational Linguistics as a Msc student at <a href="https://www.ims.uni-stuttgart.de/en/">the University of Stuttgart</a> 🏫</em>
+## About Me
+I'm Dojun, currently a MSc student specializing in Computational Linguistics at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/). If you're curious about the road I've traveled in the vast world of Natural Language Processing, don't hesitate to explore my [resume](https://dojunpark.github.io/). You might just find the collaborator or thinker you've been looking for!
 
-<em>If you're curious about the road I've traveled in the vast world of NLP, feel free to take a journey through my [resume](https://dojunpark.github.io/). You might just find the collaborator or thinker you've been looking for! 💼🚀</em>
+<br>
 
-<a href="https://www.linkedin.com/in/dojun-park-772b0319b/">
-  <img align="left" alt="Dojun's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" />
-</a>
-<a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en">
-  <img align="left" alt="Dojun's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" />
-</a>
-<a href="https://www.instagram.com/dojunnn.p/">
-  <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a></br></br></br>
+## Connect with me 🌎
+
+[<img align="left" alt="Dojun's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/dojun-park-772b0319b/)
+[<img align="left" alt="Dojun's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" />](https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en)
+[<img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />](https://www.instagram.com/dojunnn.p/)
+<br></br>
+
+## Code Snapshot 🖥️
+Here's a little bit about me as a Python Class!
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class NLPResearcher:
 
     def __init__(self):
         self.name = "Dojun Park"
         self.current = "Msc Student"
         self.major = "Computational Linguistics"
-        self.interest = "Machine Translation, Transfer Learning, Speech Processing"
+        self.interest = ["Machine Translation", "Transfer Learning", "Speech Processing"]
         self.affiliation = "Institute for Natural Language Processing(IMS), University of Stuttgart"
         self.language_spoken = ["en_US", "de_DE", "ko_KR", "zh_CN"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting :)")
-
+        return "Thanks for dropping by, hope you find some of my work interesting :)"
 
 me = NLPResearcher()
-me.say_hi()
-```
+print(me.say_hi())```
+
+Thanks for visiting! 🙏
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
