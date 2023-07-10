@@ -2,50 +2,57 @@
 
 I'm Dojun! 👋 Welcome to my GitHub profile. I'm currently immersing myself in the world of Computational Linguistics as an MSc student at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/). If you're intrigued by the intersection of language and technology, you might just find my journey through Natural Language Processing interesting. Take a peek at my [resume](https://dojunpark.github.io/) and let's connect!
 
-<a href="https://www.linkedin.com/in/dojun-park-772b0319b/"><img align="left" alt="Dojun's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
-<a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en"><img align="left" alt="Dojun's Google Scholar" width="20px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" /></a>
-<a href="https://www.instagram.com/dojunnn.p/"><img align="left" alt="Dojun's Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 
-<br>
+
+
+## Hi there! 😊
+
+<em>I'm Dojun! 👋 I'm currently immersing myself in the world of Computational Linguistics as an MSc student at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/). If you're intrigued by the intersection of language and technology, you might just find my journey through Natural Language Processing interesting. Take a peek at my [resume](https://dojunpark.github.io/) and let's connect!</em>
+
+<a href="https://www.linkedin.com/in/dojun-park-772b0319b/"><img align="left" alt="Dojun's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
+<a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en">
+  <img align="left" alt="Dojun's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" />
+</a>
+<a href="https://www.instagram.com/dojunnn.p/">
+  <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a></br></br></br>
+
 
 ```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
 class NLPResearcher:
 
     def __init__(self):
         self.name = "Dojun Park"
         self.current = "Msc Student"
         self.major = "Computational Linguistics"
-        self.interests = ["Machine Translation", "Transfer Learning", "Speech Processing"]
+        self.interest = "Machine Translation, Transfer Learning, Speech Processing"
         self.affiliation = "Institute for Natural Language Processing(IMS), University of Stuttgart"
-        self.languages_spoken = ["en_US", "de_DE", "ko_KR", "zh_CN"]
+        self.language_spoken = ["en_US", "de_DE", "ko_KR", "zh_CN"]
 
     def say_hi(self):
-        return "Thanks for dropping by, hope you find some of my work interesting :)"
+        print("Thanks for dropping by, hope you find some of my work interesting :)")
+
 
 me = NLPResearcher()
-print(me.say_hi())
+me.say_hi()
 ```
-<br>
 
-## ⌚ My Weekly Development Breakdown
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" />
 
-Python: 12 hrs 11 mins  ███████████████▓▒  88.07 %
-Bash:   1 hr 39 mins    █▓░░░░░░░░░░░░░░░  11.93 %
+#### Weekly development breakdown 📊
 
-<br>
+<!--START_SECTION:waka-->
 
-## 🪄 Languages and Tools I Use
+```text
+Python 12 hrs 11 mins   ███████████████▓▒  88.07 %
+Bash   1 hrs 39 mins    █▓░░░░░░░░░░░░░░░  11.93 %
+```
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<br>
-<br>
-
-Thanks for visiting! 🙏
+#### Languages and Tools 🪄
+<h3 align="left":</h3>
+<p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank">  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<!--END_SECTION:waka-->
