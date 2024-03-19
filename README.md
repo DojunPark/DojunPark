@@ -6,9 +6,6 @@ I'm Dojun! 👋 As an MSc candidate at the [University of Stuttgart](https://www
 <a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en">
   <img align="left" alt="Dojun's Google Scholar" width="22px" src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" />
 </a>
-<a href="https://www.instagram.com/dojunnn.p/">
-  <img align="left" alt="Dojun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a></br>
 
 
 ```python
