@@ -1,6 +1,6 @@
 ## Hi there! 😊
 
-I'm Dojun! 👋 As an MSc candidate at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/), I'm immersing myself in the world of Computational Linguistics. If you're intrigued by the intersection of language and technology, you might just find my journey through Natural Language Processing interesting. Take a peek at my [CV](https://dojunpark.github.io/) and let's connect! 🤝
+I'm Dojun! 👋 Having graduated with an MSc from the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/), I'm immersing myself in the world of Computational Linguistics. If you're intrigued by the intersection of language and technology, you might just find my journey through Natural Language Processing interesting. Take a peek at my [CV](https://dojunpark.github.io/) and let's connect! 🤝
 
 <a href="https://www.linkedin.com/in/dojun-park-772b0319b/"><img align="left" alt="Dojun's LinkedIn" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a>
 <a href="https://scholar.google.com/citations?user=K1THT-YAAAAJ&hl=en">
