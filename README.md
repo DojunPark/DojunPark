@@ -19,10 +19,10 @@ class NLPEngineer:
 
     def __init__(self):
         self.name = "Dojun Park"
-        self.current = "Msc Candidate"
+        self.current = "Research Assistant"
         self.major = "Computational Linguistics"
-        self.interest = "Machine Translation, Transfer Learning, Speech Processing"
-        self.affiliation = "Institute for Natural Language Processing(IMS), University of Stuttgart"
+        self.interest = "Machine Translation, Large Language Model, Explainable NLP"
+        self.affiliation = "Artificial Intelligence Institute of Seoul National University (AIIS)"
         self.language_spoken = ["en_US", "de_DE", "ko_KR", "zh_CN"]
 
     def say_hi(self):
