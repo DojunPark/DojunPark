@@ -15,7 +15,7 @@ I'm Dojun! 👋 Having graduated with an MSc from the University of Stuttgart, I
 # -*- coding: utf-8 -*-
 
 
-class NLPEngineer:
+class NLPResearcher:
 
     def __init__(self):
         self.name = "Dojun Park"
@@ -29,7 +29,7 @@ class NLPEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting :)")
 
 
-me = NLPEngineer()
+me = NLPResearcher()
 me.say_hi()
 ```
 
