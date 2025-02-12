@@ -19,7 +19,7 @@ class NLPResearcher:
 
     def __init__(self):
         self.name = "Dojun Park"
-        self.current = "Research Assistant"
+        self.current = "NLP Researcher"
         self.major = "Computational Linguistics"
         self.interest = "Machine Translation, Large Language Model, Explainable NLP"
         self.affiliation = "Artificial Intelligence Institute of Seoul National University (AIIS)"
